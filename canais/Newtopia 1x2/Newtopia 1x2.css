@@ -24,7 +24,7 @@ body{
     background-image: url('Newtopia.jpg');
     background-size: cover;
     background-position: center center;
-    color: white;
+    color: black;
     object-fit: contain;
     height: 448px;
 }
